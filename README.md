@@ -6,7 +6,7 @@ This includes the important correspondence I had with IMSA's FOIA Officer, inclu
 
 ## Demographic Only No Reject Data
 
-This contains the initial data (and any analysis) provided to me by IMSA. This does not include rejected applicants nor does it include GPA or SAT scores.
+This contains the initial data provided to me by IMSA (and any subsequent analysis). This dataset does not include rejected applicants nor does it include GPA or SAT scores.
 
 ### raw-data
 This is simply the spreadsheet IMSA provided to me (except it was converted from `.XLSX` to `.CSV`).

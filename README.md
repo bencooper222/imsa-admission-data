@@ -1,10 +1,10 @@
 # imsa-admission-data
-This contains admissions data and any subsequent analysis from the Illinois Mathematics and Science Academy as retrieved by a FOIA request.
+This repo contains admissions data and any subsequent analysis from the Illinois Mathematics and Science Academy as retrieved by a FOIA request.
 
 ## foia-correspondence
 This includes the important correspondence I had with IMSA's FOIA Officer, including the initial FOIA request.
 
-## Demographic Only No Reject Data
+## demographic-only-no-reject
 
 This contains the initial data provided to me by IMSA (and any subsequent analysis). This dataset does not include rejected applicants nor does it include GPA or SAT scores.
 

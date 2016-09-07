@@ -1,0 +1,1163 @@
+id,IMSA_DecisionFinal,Applicant_ResponseFinal,IMSA_AcceptedApplicant,WAIVER,IMSA_Graduate,Race_text,IMSA_CurrentStudent,IMSA_Graduate,Race_ISBE,IMSA_CurrentStudent,IMSA_AcceptedApplicant,IMSA_Applicant,IMSA_Attendee,Applicant_Year,Applicant_Response1,Applicant_Response2,Applicant_Response3,IMSA_DecisionFinal,IMSA_DecisionOriginal,IMSA_SchedYearofGraduation,Home_County,Home_City
+0,Yes,Accept,Yes,NULL,Yes,"Hispanic or Latino, White",No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Grundy,Coal City
+1,Yes,Accept,Yes,NULL,Yes,,No,Yes,Black or African American,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Oak Park
+2,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,McHenry,Algonquin
+3,Yes,Accept,Yes,NULL,Yes,,No,Yes,Black or African American,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Chicago
+4,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Will,Homer Glen
+5,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Elmhurst
+6,Yes,Accept,Yes,NULL,No,,No,No,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Fulton,Canton
+7,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Lake,Round Lake
+8,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Schaumburg
+9,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Peoria,Peoria
+10,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Waitlist,2014,DuPage,Westmont
+11,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,McLean,Bloomington
+12,Yes,Accept,Yes,NULL,No,,No,No,Black or African American,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,St. Clair,Cahokia
+13,Yes,Accept,Yes,NULL,No,"Hispanic or Latino, White",No,No,Hispanic or Latino,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Grundy,Morris
+14,Yes,Accept,Yes,NULL,Yes,"Asian, White",No,Yes,Two or More Races,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Darien
+15,Yes,Accept,Yes,NULL,Yes,,No,Yes,Black or African American,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Wilmette
+16,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,West Chicago
+17,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Des Plaines
+18,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Palatine
+19,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Lake,Grayslake
+20,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Evanston
+21,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,West Chicago
+22,Yes,Accept,Yes,NULL,Yes,,No,Yes,Black or African American,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Kane,North Aurora
+23,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Sangamon,Springfield
+24,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Naperville
+25,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Lisle
+26,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Waitlist,2014,Cook,Schaumburg
+27,Yes,Accept,Yes,NULL,No,,No,No,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,McLean,Bloomington
+28,Yes,Accept,Yes,NULL,Yes,"Black or African American, White",No,Yes,Two or More Races,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Homewood
+29,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,McLean,Bloomington
+30,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Winnebago,Rockford
+31,Yes,Accept,Yes,NULL,No,,No,No,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Streamwood
+32,Yes,Accept,Yes,NULL,Yes,"Asian, White",No,Yes,Two or More Races,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Schaumburg
+33,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,McHenry,Crystal Lake
+34,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Coles,Mattoon
+35,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Kane,Carpentersvle
+36,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Will,Lockport
+37,Yes,Accept,Yes,NULL,No,"Asian, White",No,No,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Will,Lockport
+38,Yes,Accept,Yes,NULL,No,,No,No,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Kane,Elgin
+39,Yes,Accept,Yes,NULL,Yes,"Hispanic or Latino, American Indian or Alaska Native",No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Kane,Elgin
+40,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Waitlist,2014,Lake,Vernon Hills
+41,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Kane,Batavia
+42,Yes,Accept,Yes,NULL,Yes,,No,Yes,Black or African American,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Chicago
+43,Yes,Accept,Yes,NULL,No,,No,No,Black or African American,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,McLean,Bloomington
+44,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,River Forest
+45,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Dekalb,Sycamore
+46,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Jo Daviess,Galena
+47,Yes,Accept,Yes,NULL,No,,No,No,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,West Chicago
+48,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Lake,Hawthorn Wds
+49,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Waitlist,2014,Will,Joliet
+50,Yes,Accept,Yes,NULL,Yes,"Hispanic or Latino, White",No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Elmhurst
+51,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Lake,Lake Zurich
+52,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Aurora
+53,Yes,Accept,Yes,NULL,Yes,,No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Berwyn
+54,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Naperville
+55,Yes,Accept,Yes,NULL,Yes,,No,Yes,Black or African American,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Lynwood
+56,Yes,Accept,Yes,NULL,Yes,"Hispanic or Latino, White",No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Lake,Ingleside
+57,Yes,Accept,Yes,NULL,Yes,,No,Yes,Black or African American,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Chicago
+58,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,N Barrington
+59,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Glen Ellyn
+60,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,McHenry,Crystal Lake
+61,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Naperville
+62,Yes,Accept,Yes,NULL,Yes,,No,Yes,Black or African American,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Park Forest
+63,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Lee,Paw Paw
+64,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Jackson,Carbondale
+65,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Naperville
+66,Yes,Accept,Yes,NULL,Yes,"Asian, White",No,Yes,Two or More Races,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Kane,Batavia
+67,Yes,Accept,Yes,NULL,Yes,,No,Yes,Black or African American,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Cntry Clb Hls
+68,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Lake,Gurnee
+69,Yes,Accept,Yes,NULL,Yes,,No,Yes,Black or African American,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Sangamon,Springfield
+70,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Waitlist,2014,DuPage,Woodridge
+71,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Winnebago,Rockford
+72,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Naperville
+73,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Hoffman Est
+74,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Waitlist,2014,Lake,Vernon Hills
+75,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,McHenry,Cary
+76,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Waitlist,2014,Peoria,Peoria
+77,Yes,Accept,Yes,NULL,Yes,,No,Yes,Black or African American,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Lake,Gurnee
+78,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Kane,Aurora
+79,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Will,Bolingbrook
+80,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Alsip
+81,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Aurora
+82,Yes,Accept,Yes,NULL,Yes,"Hispanic or Latino, White",No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Will,Bolingbrook
+83,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Will,Naperville
+84,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Bartlett
+85,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Kane,West Dundee
+86,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Evanston
+87,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Waitlist,2014,Cook,Arlington Hts
+88,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Palos Heights
+89,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,McHenry,Woodstock
+90,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Palatine
+91,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Kane,Aurora
+92,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Aurora
+93,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Palatine
+94,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Waitlist,2014,DuPage,Naperville
+95,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Lisle
+96,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Dekalb,Dekalb
+97,Yes,Accept,Yes,NULL,No,,No,No,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Champaign,Urbana
+98,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Lake,Kildeer
+99,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Dekalb,Dekalb
+100,Yes,Accept,Yes,NULL,Yes,"Hispanic or Latino, White",No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Rock Island,Port Byron
+101,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Waitlist,2014,Cook,Riverside
+102,Yes,Accept,Yes,NULL,No,,No,No,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Will,Plainfield
+103,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Naperville
+104,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Naperville
+105,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Jackson,Carbondale
+106,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Hoffman Est
+107,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Kane,Aurora
+108,Yes,Accept,Yes,NULL,No,,No,No,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Dekalb,Sandwich
+109,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Will,Naperville
+110,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Boone,Caledonia
+111,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Coles,Charleston
+112,Yes,Accept,Yes,NULL,Yes,"Hispanic or Latino, White",No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Kendall,Plano
+113,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Kane,North Aurora
+114,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Waitlist,2014,DuPage,West Chicago
+115,Yes,Accept,Yes,NULL,Yes,"Hispanic or Latino, White",No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Will,Plainfield
+116,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Villa Park
+117,Yes,Accept,Yes,NULL,Yes,,No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Will,Lockport
+118,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Waitlist,2014,Lake,Lindenhurst
+119,Yes,Accept,Yes,NULL,Yes,"Hispanic or Latino, White",No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Brookfield
+120,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Lake,Gurnee
+121,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Oak Lawn
+122,Yes,Accept,Yes,NULL,No,"Hispanic or Latino, White",No,No,Hispanic or Latino,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Waitlist,2014,Cook,Tinley Park
+123,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Chicago
+124,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Arlington Hts
+125,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Lake,Lake Zurich
+126,Yes,Accept,Yes,NULL,Yes,,No,Yes,Black or African American,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Naperville
+127,Yes,Accept,Yes,NULL,Yes,"Hispanic or Latino, White",No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Berwyn
+128,Yes,Accept,Yes,NULL,Yes,,No,Yes,Black or African American,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Kendall,Plano
+129,Yes,Accept,Yes,NULL,No,,No,No,Black or African American,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,St. Clair,Centreville
+130,Yes,Accept,Yes,NULL,Yes,,No,Yes,Black or African American,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Riverside
+131,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Oak Lawn
+132,Yes,Accept,Yes,NULL,Yes,,No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Waitlist,2014,Cook,Bridgeview
+133,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Naperville
+134,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Lake,Deerfield
+135,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Peoria,Peoria
+136,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Waitlist,2014,Peoria,Peoria
+137,Yes,Accept,Yes,NULL,No,,No,No,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Kendall,Oswego
+138,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Waitlist,2014,Jefferson,Mount Vernon
+139,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Dekalb,Sycamore
+140,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Waitlist,2014,Peoria,Mapleton
+141,Yes,Accept,Yes,NULL,No,,No,No,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Lake,Mundelein
+142,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Will,Plainfield
+143,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Darien
+144,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Peoria,Peoria
+145,Yes,Accept,Yes,NULL,No,,No,No,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Massac,Metropolis
+146,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Naperville
+147,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Des Plaines
+148,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Chicago
+149,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Lisle
+150,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Sangamon,Auburn
+151,Yes,Accept,Yes,NULL,Yes,,No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Berwyn
+152,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Naperville
+153,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Westchester
+154,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Waitlist,2014,Peoria,Peoria
+155,Yes,Accept,Yes,NULL,No,,No,No,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Lake,Lake Villa
+156,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Kane,Geneva
+157,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,McHenry,Fox River Grv
+158,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Naperville
+159,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Lake,Lake Zurich
+160,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Naperville
+161,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Lake,Round Lake
+162,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Naperville
+163,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Waitlist,2014,Cook,Glencoe
+164,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Waitlist,2014,Lake,Round Lake
+165,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Will,Bolingbrook
+166,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,LaSalle,Sheridan
+167,Yes,Accept,Yes,NULL,Yes,,No,Yes,Black or African American,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,St. Clair,Fairview Hts
+168,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Lake,Mundelein
+169,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Naperville
+170,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Woodridge
+171,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Kane,Aurora
+172,Yes,Accept,Yes,NULL,No,,No,No,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Lake,Lake Bluff
+173,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Champaign,Champaign
+174,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Naperville
+175,Yes,Accept,Yes,NULL,No,,No,No,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Glen Ellyn
+176,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Schaumburg
+177,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Kane,Aurora
+178,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Waitlist,2014,McLean,Bloomington
+179,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Champaign,Champaign
+180,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Kane,Aurora
+181,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Aurora
+182,Yes,Accept,Yes,NULL,No,,No,No,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Kane,Elburn
+183,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Hoffman Est
+184,Yes,Accept,Yes,NULL,No,,No,No,Black or African American,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Markham
+185,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Coles,Charleston
+186,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Kendall,Oswego
+187,Yes,Accept,Yes,NULL,No,,No,No,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Waitlist,2014,Lake,Wadsworth
+188,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Barrington
+189,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Champaign,Champaign
+190,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Lake,Island Lake
+191,Yes,Accept,Yes,NULL,No,,No,No,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Palatine
+192,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Kane,Elgin
+193,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Waitlist,2014,Cook,Mt Prospect
+194,Yes,Accept,Yes,NULL,Yes,"Asian, White",No,Yes,Two or More Races,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,McLean,Bloomington
+195,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Will,Romeoville
+196,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Waitlist,2014,DuPage,Aurora
+197,Yes,Accept,Yes,NULL,Yes,"Asian, White",No,Yes,Two or More Races,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Sangamon,Springfield
+198,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Will,Naperville
+199,Yes,Accept,Yes,NULL,Yes,,No,Yes,Black or African American,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Willowbrook
+200,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Tazewell,Washington
+201,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Boone,Capron
+202,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Montgomery,Raymond
+203,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,McLean,Downs
+204,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Elmwood Park
+205,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Cook,Mt Prospect
+206,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Kane,Aurora
+207,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Naperville
+208,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Naperville
+209,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Rock Island,East Moline
+210,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Hinsdale
+211,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,McHenry,Crystal Lake
+212,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Lake,Wauconda
+213,Yes,Accept,Yes,NULL,Yes,"Hispanic or Latino, Asian",No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Champaign,Savoy
+214,Yes,Accept,Yes,NULL,No,,No,No,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Clarendon Hls
+215,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Jefferson,Mount Vernon
+216,Yes,Accept,Yes,NULL,Yes,,No,Yes,Black or African American,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Peoria,Peoria
+217,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Lake,Mundelein
+218,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,DuPage,Westmont
+219,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Lake,Lake Zurich
+220,Yes,Accept,Yes,NULL,No,,No,No,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,Richland,Olney
+221,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Accept,NULL,NULL,Yes,Offer,2014,McHenry,Crystal Lake
+222,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2011,Appeal,Accept,NULL,Yes,No Offer,2014,DuPage,Naperville
+223,Yes,Accept,Yes,NULL,Yes,,No,Yes,Black or African American,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Arlington Hts
+224,Yes,Accept,Yes,NULL,Yes,,No,Yes,Black or African American,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Kankakee,Bourbonnais
+225,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,McLean,Bloomington
+226,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Peoria,Peoria
+227,Yes,Accept,Yes,NULL,Yes,,No,Yes,Black or African American,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Will,Frankfort
+228,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Aurora
+229,Yes,Accept,Yes,NULL,Yes,"Hispanic or Latino, White",No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Chicago
+230,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Kane,West Dundee
+231,Yes,Accept,Yes,NULL,No,,No,No,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Oak Brook
+232,Yes,Accept,Yes,NULL,No,"Black or African American, White",No,No,Two or More Races,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Will,Bolingbrook
+233,Yes,Accept,Yes,NULL,Yes,,No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Berwyn
+234,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,McHenry,Crystal Lake
+235,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Montgomery,Hillsboro
+236,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Peoria,Peoria
+237,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,West Chicago
+238,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,DuPage,West Chicago
+239,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,Cook,Western Sprgs
+240,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Kane,Sugar Grove
+241,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Naperville
+242,Yes,Accept,Yes,NULL,Yes,,No,Yes,Black or African American,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Olympia Flds
+243,Yes,Accept,Yes,NULL,Yes,"Asian, Native Hawaiian or Other Pacific Islander",No,Yes,Two or More Races,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Naperville
+244,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Kane,Elgin
+245,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,DuPage,Oak Brook
+246,Yes,Accept,Yes,NULL,Yes,"Hispanic or Latino, White",No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Will,Plainfield
+247,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Darien
+248,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Lisle
+249,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Lake,Lake Forest
+250,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Champaign,Champaign
+251,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Will,Plainfield
+252,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Dekalb,Sycamore
+253,Yes,Accept,Yes,NULL,No,,No,No,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Winfield
+254,Yes,Self Defer,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Self Defer,NULL,NULL,Yes,Offer,2015,McDonough,Bushnell
+255,Yes,Accept,Yes,NULL,Yes,"Hispanic or Latino, White",No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,McDonough,Macomb
+256,Yes,Accept,Yes,NULL,No,"Hispanic or Latino, White",No,No,Hispanic or Latino,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Winnebago,Rockford
+257,Yes,Accept,Yes,NULL,Yes,"Hispanic or Latino, American Indian or Alaska Native",No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Kane,Carpentersvle
+258,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,Kendall,Yorkville
+259,Yes,Accept,Yes,NULL,No,,No,No,Hispanic or Latino,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,McHenry,Richmond
+260,Yes,Accept,Yes,NULL,No,"Hispanic or Latino, White",No,No,Hispanic or Latino,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Macon,Forsyth
+261,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Jackson,Carbondale
+262,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Naperville
+263,Yes,Accept,Yes,NULL,No,,No,No,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Glen Ellyn
+264,Yes,Accept,Yes,NULL,Yes,,No,Yes,Black or African American,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Chicago Hts
+265,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,McHenry,Huntley
+266,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Lee,Dixon
+267,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,McLean,Bloomington
+268,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Lake,Highland Park
+269,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Dekalb,Shabbona
+270,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Macon,Forsyth
+271,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Kane,Aurora
+272,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Kane,Batavia
+273,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Naperville
+274,Yes,Accept,Yes,NULL,Yes,"Hispanic or Latino, White",No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Will,Plainfield
+275,Yes,Accept,Yes,NULL,Yes,"Asian, Black or African American",No,Yes,Two or More Races,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Kendall,Oswego
+276,Yes,Accept,Yes,NULL,No,,No,No,Black or African American,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Calumet City
+277,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Sangamon,Springfield
+278,Yes,Accept,Yes,NULL,Yes,"Hispanic or Latino, White",No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Kendall,Montgomery
+279,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,N Barrington
+280,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,Winnebago,Loves Park
+281,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Sangamon,Chatham
+282,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,St. Clair,Belleville
+283,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Oak Brook
+284,Yes,Accept,Yes,NULL,No,,No,No,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Aurora
+285,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Will,Homer Glen
+286,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Inverness
+287,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Des Plaines
+288,Yes,Accept,Yes,NULL,No,,No,No,Black or African American,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Park Forest
+289,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,Kendall,Yorkville
+290,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Burr Ridge
+291,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Chicago
+292,Yes,Accept,Yes,NULL,Yes,"Hispanic or Latino, White",No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Kane,North Aurora
+293,Yes,Accept,Yes,NULL,Yes,,No,Yes,Black or African American,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Richton Park
+294,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Kane,Aurora
+295,Yes,Accept,Yes,NULL,No,"Hispanic or Latino, White",No,No,Hispanic or Latino,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Kankakee,Kankakee
+296,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Naperville
+297,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Will,Homer Glen
+298,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,Cook,Des Plaines
+299,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Warrenville
+300,Yes,Accept,Yes,NULL,No,,No,No,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Champaign,Champaign
+301,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Schaumburg
+302,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Itasca
+303,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Lincolnwood
+304,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,Lake,Waukegan
+305,Yes,Accept,Yes,NULL,No,,No,No,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Boone,Poplar Grove
+306,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Boone,Poplar Grove
+307,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Roselle
+308,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Peoria,Peoria
+309,Yes,Accept,Yes,NULL,No,,No,No,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,Sangamon,Springfield
+310,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Lake,Buffalo Grove
+311,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,DuPage,Clarendon Hls
+312,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Naperville
+313,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Chicago
+314,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Carroll,Lanark
+315,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Rolling Mdws
+316,Yes,Accept,Yes,NULL,No,,No,No,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Champaign,Champaign
+317,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Champaign,Champaign
+318,Yes,Accept,Yes,NULL,Yes,"Hispanic or Latino, White",No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Kendall,Montgomery
+319,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Will,Romeoville
+320,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,McHenry,Woodstock
+321,Yes,Accept,Yes,NULL,Yes,,No,Yes,Black or African American,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Matteson
+322,Yes,Accept,Yes,NULL,Yes,"Asian, Black or African American",No,Yes,Two or More Races,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Glen Ellyn
+323,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,Cook,Des Plaines
+324,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Naperville
+325,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Coles,Charleston
+326,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,DuPage,Aurora
+327,Yes,Accept,Yes,NULL,Yes,"Hispanic or Latino, Asian",No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Chicago
+328,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Winnebago,Roscoe
+329,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Madison,Troy
+330,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,Kendall,Yorkville
+331,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Downers Grove
+332,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,McHenry,Lk In The Hls
+333,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Elk Grove Vlg
+334,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Will,Plainfield
+335,Yes,Accept,Yes,NULL,Yes,,No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Chicago
+336,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,DuPage,Naperville
+337,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Stephenson,Freeport
+338,Yes,Accept,Yes,NULL,Yes,"Asian, White",No,Yes,Two or More Races,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Woodridge
+339,Yes,Accept,Yes,NULL,No,,No,No,Hispanic or Latino,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Westchester
+340,Yes,Accept,Yes,NULL,No,,No,No,Hispanic or Latino,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Rock Island,Moline
+341,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Kane,Batavia
+342,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Lake,Island Lake
+343,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,Kendall,Oswego
+344,Yes,Accept,Yes,NULL,No,"Hispanic or Latino, White",No,No,Hispanic or Latino,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Park Forest
+345,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Peoria,Peoria
+346,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Kankakee,Saint Anne
+347,Yes,Accept,Yes,NULL,Yes,"Hispanic or Latino, White",No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Bartlett
+348,Yes,Accept,Yes,NULL,Yes,"Asian, Black or African American",No,Yes,Two or More Races,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Naperville
+349,Yes,Accept,Yes,NULL,No,"Hispanic or Latino, White",No,No,Hispanic or Latino,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Winnebago,South Beloit
+350,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Naperville
+351,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Kankakee,Bourbonnais
+352,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,Lake,Gurnee
+353,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Champaign,Savoy
+354,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Peoria,Peoria
+355,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,Cook,Orland Park
+356,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,DuPage,Elmhurst
+357,Yes,Accept,Yes,NULL,Yes,"Hispanic or Latino, Asian",No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Aurora
+358,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Sangamon,Springfield
+359,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Will,Bolingbrook
+360,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,Will,Plainfield
+361,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,Cook,Schaumburg
+362,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,Cook,Orland Park
+363,Yes,Accept,Yes,NULL,No,,No,No,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Kane,North Aurora
+364,Yes,Accept,Yes,NULL,Yes,"Asian, White",No,Yes,Two or More Races,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Peoria,Peoria
+365,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Wheaton
+366,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,Kane,Batavia
+367,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,Dekalb,Sycamore
+368,Yes,Accept,Yes,NULL,No,"Hispanic or Latino, American Indian or Alaska Native",No,No,Hispanic or Latino,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Cicero
+369,Yes,Accept,Yes,NULL,Yes,,No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Lemont
+370,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,DuPage,Glendale Hts
+371,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Kane,Elgin
+372,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Evergreen Pk
+373,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Kane,West Dundee
+374,Yes,Accept,Yes,NULL,Yes,"Hispanic or Latino, White",No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Rock Island,Moline
+375,Yes,NULL,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,NULL,NULL,NULL,Yes,Waitlist,2015,McHenry,Crystal Lake
+376,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Dekalb,Clare
+377,Yes,NULL,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,NULL,NULL,NULL,Yes,Waitlist,2015,Kane,Aurora
+378,Yes,Accept,Yes,NULL,No,,No,No,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Lake,Buffalo Grove
+379,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Naperville
+380,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Menard,Petersburg
+381,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Rock Island,Moline
+382,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,McLean,Bloomington
+383,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,McHenry,Algonquin
+384,Yes,Accept,Yes,NULL,No,"Hispanic or Latino, White",No,No,Hispanic or Latino,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Naperville
+385,Yes,NULL,Yes,NULL,No,"Asian, White",No,No,Two or More Races,No,Yes,Yes,Yes,2012,NULL,NULL,NULL,Yes,Waitlist,2015,Kane,South Elgin
+386,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Palatine
+387,Yes,Accept,Yes,NULL,Yes,"Asian, White",No,Yes,Two or More Races,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Oak Park
+388,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Riverside
+389,Yes,Accept,Yes,NULL,Yes,,No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Lansing
+390,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Oak Park
+391,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Dekalb,Sycamore
+392,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Iroquois,Watseka
+393,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,Cook,Orland Park
+394,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,McLean,Bloomington
+395,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,Will,Naperville
+396,Yes,Accept,Yes,NULL,No,,No,No,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Washington,Richview
+397,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,McHenry,Union
+398,Yes,Accept,Yes,NULL,Yes,"American Indian or Alaska Native, White",No,Yes,Two or More Races,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Chicago
+399,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,Will,Plainfield
+400,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Tower Lakes
+401,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,River Forest
+402,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Will,Plainfield
+403,Yes,Accept,Yes,NULL,No,"Asian, White",No,No,Two or More Races,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Peoria,Peoria
+404,Yes,Accept,Yes,NULL,Yes,,No,Yes,Black or African American,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Matteson
+405,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,St. Clair,O Fallon
+406,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,Cook,Oak Forest
+407,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Lansing
+408,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Will,Bolingbrook
+409,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Naperville
+410,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Carroll,Lanark
+411,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Kane,St Charles
+412,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Clarendon Hls
+413,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,McLean,Normal
+414,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Lake,Mundelein
+415,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Lake,Mundelein
+416,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Westmont
+417,Yes,Accept,Yes,NULL,Yes,,No,Yes,Black or African American,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Kane,Aurora
+418,Yes,Accept,Yes,NULL,No,"Black or African American, White",No,No,Two or More Races,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Matteson
+419,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Lake,Antioch
+420,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Hoffman Est
+421,Yes,Accept,Yes,NULL,No,,No,No,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,DuPage,Villa Park
+422,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Naperville
+423,Yes,Accept,Yes,NULL,No,"Asian, White",No,No,Two or More Races,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Park Ridge
+424,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,DuPage,Naperville
+425,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Lake,Buffalo Grove
+426,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,LaSalle,Seneca
+427,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,Lake,Round Lake
+428,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,Cook,La Grange
+429,Yes,Accept,Yes,NULL,Yes,"Asian, White",No,Yes,Two or More Races,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Peoria,Peoria Hts
+430,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Lisle
+431,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Peoria,Peoria
+432,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,DuPage,Aurora
+433,Yes,Accept,Yes,NULL,Yes,,No,Yes,Black or African American,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Matteson
+434,Yes,Accept,Yes,NULL,Yes,,No,Yes,Black or African American,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Olympia Flds
+435,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,Kane,North Aurora
+436,Yes,Accept,Yes,NULL,No,,No,No,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,Cook,Oak Forest
+437,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Kane,St Charles
+438,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,DuPage,Naperville
+439,Yes,Accept,Yes,NULL,Yes,,No,Yes,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,McHenry,Crystal Lake
+440,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Darien
+441,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,Kane,St Charles
+442,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Kane,Batavia
+443,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Cook,Wheeling
+444,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,McLean,Bloomington
+445,Yes,Accept,Yes,NULL,No,"Hispanic or Latino, White",No,No,Hispanic or Latino,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Will,New Lenox
+446,Yes,Accept,Yes,NULL,No,,No,No,White,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Waitlist,2015,Kane,Elgin
+447,Yes,Accept,Yes,NULL,Yes,"Hispanic or Latino, American Indian or Alaska Native",No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Roselle
+448,Yes,Accept,Yes,NULL,No,,No,No,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Glen Ellyn
+449,Yes,Accept,Yes,NULL,Yes,,No,Yes,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,Will,Bolingbrook
+450,Yes,Accept,Yes,NULL,No,,No,No,Asian,No,Yes,Yes,Yes,2012,Accept,NULL,NULL,Yes,Offer,2015,DuPage,Westmont
+451,Yes,Accept,Yes,NULL,Yes,Black or African American,No,Yes,Black or African American,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,St. Clair,Belleville
+452,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Champaign,Champaign
+453,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Grundy,Gardner
+454,Yes,Accept,Yes,NULL,Yes,Hispanic or Latino,No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Aurora
+455,Yes,Accept,Yes,NULL,Yes,Black or African American,No,Yes,Black or African American,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Cntry Clb Hls
+456,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Kane,North Aurora
+457,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Aurora
+458,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Kane,Aurora
+459,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Schaumburg
+460,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,S Barrington
+461,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Lee,Ashton
+462,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,McLean,Bloomington
+463,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Downers Grove
+464,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,McLean,Bloomington
+465,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Waitlist,2016,Kendall,Yorkville
+466,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Darien
+467,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Gallatin,Equality
+468,Yes,Accept,Yes,NULL,Yes,White,No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Orland Park
+469,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,St. Clair,Caseyville
+470,Yes,Accept,Yes,NULL,Yes,White,No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Kane,Aurora
+471,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,McHenry,Fox River Grv
+472,Yes,Accept,Yes,NULL,No,Two or More Races,No,No,Two or More Races,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Chicago
+473,Yes,Accept,Yes,NULL,Yes,American Indian or Alaska Native,No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Chicago
+474,Yes,Accept,Yes,NULL,No,Black or African American,No,No,Black or African American,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Aurora
+475,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Waitlist,2016,Kankakee,Bourbonnais
+476,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Naperville
+477,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Peoria,Dunlap
+478,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Waitlist,2016,Cook,Schaumburg
+479,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Waitlist,2016,Will,Lockport
+480,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Kane,Aurora
+481,Yes,Accept,Yes,NULL,Yes,Two or More Races,No,Yes,Two or More Races,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Hoffman Est
+482,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Knox,Galesburg
+483,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Livingston,Fairbury
+484,Yes,Accept,Yes,NULL,Yes,American Indian or Alaska Native,No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Sangamon,Springfield
+485,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Cicero
+486,Yes,Accept,Yes,NULL,No,Hispanic or Latino,No,No,Hispanic or Latino,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,West Chicago
+487,Yes,Accept,Yes,NULL,Yes,Two or More Races,No,Yes,Two or More Races,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Chicago
+488,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,McHenry,Crystal Lake
+489,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Winnebago,Rockford
+490,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Peoria,Dunlap
+491,Yes,Accept,Yes,NULL,Yes,Two or More Races,No,Yes,Two or More Races,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Tinley Park
+492,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Kane,St Charles
+493,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Naperville
+494,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Elmhurst
+495,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,McLean,Bloomington
+496,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,McHenry,Lk In The Hls
+497,Yes,Rescinded,Yes,NULL,No,Black or African American,No,No,Black or African American,No,Yes,Yes,Yes,2013,Rescinded,NULL,NULL,Yes,Offer,2016,Cook,Park Forest
+498,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Lake,Bannockburn
+499,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Park Forest
+500,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Stephenson,Freeport
+501,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Brookfield
+502,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Waitlist,2016,Kankakee,Bourbonnais
+503,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Lisle
+504,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Coles,Mattoon
+505,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Waitlist,2016,Lake,Mundelein
+506,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Grundy,Diamond
+507,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,McLean,Normal
+508,Yes,Accept,Yes,NULL,Yes,Hispanic or Latino,No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Cicero
+509,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Naperville
+510,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Naperville
+511,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Waitlist,2016,DuPage,Bartlett
+512,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Washington,Nashville
+513,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Kane,Aurora
+514,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Naperville
+515,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,McHenry,Crystal Lake
+516,Yes,Accept,Yes,NULL,No,Black or African American,No,No,Black or African American,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Park Forest
+517,Yes,Accept,Yes,NULL,No,Two or More Races,No,No,Two or More Races,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Kane,Elgin
+518,Yes,Accept,Yes,NULL,Yes,Two or More Races,No,Yes,Two or More Races,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Oak Forest
+519,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Kendall,Oswego
+520,Yes,Accept,Yes,NULL,Yes,Black or African American,No,Yes,Black or African American,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Oak Park
+521,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Kane,Sugar Grove
+522,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Naperville
+523,Yes,Accept,Yes,NULL,Yes,Two or More Races,No,Yes,Two or More Races,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Will,Joliet
+524,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Jackson,Murphysboro
+525,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Dekalb,Sycamore
+526,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Sangamon,Springfield
+527,Yes,Accept,Yes,NULL,Yes,Two or More Races,No,Yes,Two or More Races,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Rock Island,Rock Island
+528,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Waitlist,2016,Kane,Aurora
+529,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Waitlist,2016,Kane,Sugar Grove
+530,Yes,Accept,Yes,NULL,Yes,Two or More Races,No,Yes,Two or More Races,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Will,Plainfield
+531,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Naperville
+532,Yes,Accept,Yes,NULL,Yes,Black or African American,No,Yes,Black or African American,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Chicago
+533,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,LaSalle,Earlville
+534,Yes,Accept,Yes,NULL,Yes,Two or More Races,No,Yes,Two or More Races,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Kane,Elgin
+535,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Naperville
+536,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Winnebago,Rockford
+537,Yes,Accept,Yes,NULL,Yes,Hispanic or Latino,No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Riverside
+538,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Will,Plainfield
+539,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Boone,Caledonia
+540,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Waitlist,2016,DuPage,Darien
+541,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Knox,Galesburg
+542,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,West Chicago
+543,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Sangamon,Springfield
+544,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Sangamon,Springfield
+545,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Chicago
+546,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Lake,Lake Zurich
+547,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Lake,Lake Forest
+548,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Sangamon,Springfield
+549,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Will,Bolingbrook
+550,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Hoffman Est
+551,Yes,Accept,Yes,NULL,Yes,Black or African American,No,Yes,Black or African American,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Chicago
+552,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Waitlist,2016,Cook,La Grange Pk
+553,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Will,Beecher
+554,Yes,Accept,Yes,NULL,Yes,Black or African American,No,Yes,Black or African American,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Richton Park
+555,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Sangamon,Springfield
+556,Yes,Accept,Yes,NULL,Yes,White,No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Melrose Park
+557,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Lombard
+558,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Waitlist,2016,Kane,Carpentersvle
+559,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Peoria,Peoria
+560,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,McHenry,Algonquin
+561,Yes,Accept,Yes,NULL,Yes,Hispanic or Latino,No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Cicero
+562,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Park Ridge
+563,Yes,Accept,Yes,NULL,No,Asian,No,No,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Waitlist,2016,Kane,Gilberts
+564,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Winnebago,Rockton
+565,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,West Chicago
+566,Yes,Accept,Yes,NULL,Yes,Hispanic or Latino,No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Melrose Park
+567,Yes,Accept,Yes,NULL,Yes,Hispanic or Latino,No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Berwyn
+568,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Lisle
+569,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Oak Lawn
+570,Yes,Accept,Yes,NULL,Yes,Black or African American,No,Yes,Black or African American,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Lynwood
+571,Yes,Accept,Yes,NULL,Yes,Hispanic or Latino,No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Bridgeview
+572,Yes,Accept,Yes,NULL,No,Hispanic or Latino,No,No,Hispanic or Latino,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Naperville
+573,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Waitlist,2016,Dekalb,Sycamore
+574,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Naperville
+575,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Waitlist,2016,DuPage,Bloomingdale
+576,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Ogle,Byron
+577,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Sangamon,Springfield
+578,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Will,Plainfield
+579,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Lake,Prairie View
+580,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Waitlist,2016,Cook,Hoffman Est
+581,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Naperville
+582,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Naperville
+583,Yes,Accept,Yes,NULL,Yes,Two or More Races,No,Yes,Two or More Races,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Waitlist,2016,Stephenson,Freeport
+584,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Lake,Round Lake
+585,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Kane,Aurora
+586,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Peoria,Peoria
+587,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Waitlist,2016,McLean,Bloomington
+588,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Macon,Decatur
+589,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Westchester
+590,Yes,Accept,Yes,NULL,Yes,Black or African American,No,Yes,Black or African American,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Kendall,Oswego
+591,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Lombard
+592,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Will,Naperville
+593,Yes,Accept,Yes,NULL,Yes,White,No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,McHenry,Bull Valley
+594,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,McHenry,Mchenry
+595,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Oak Park
+596,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,McHenry,Fox River Grv
+597,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Moultrie,Sullivan
+598,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Elmhurst
+599,Yes,Accept,Yes,NULL,Yes,Hispanic or Latino,No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Aurora
+600,Yes,Accept,Yes,NULL,Yes,Hispanic or Latino,No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Cicero
+601,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Peoria,Dunlap
+602,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Sangamon,Springfield
+603,Yes,Accept,Yes,NULL,Yes,Black or African American,No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Park Forest
+604,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Kane,North Aurora
+605,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,McLean,Bloomington
+606,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Kane,Aurora
+607,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Champaign,Champaign
+608,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Arlington Hts
+609,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Bloomingdale
+610,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Waitlist,2016,Kendall,Oswego
+611,Yes,Accept,Yes,NULL,No,Hispanic or Latino,No,No,Hispanic or Latino,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Elmwood Park
+612,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Union,Anna
+613,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Waitlist,2016,Cook,Inverness
+614,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Dekalb,Dekalb
+615,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Naperville
+616,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Woodridge
+617,Yes,Accept,Yes,NULL,Yes,Hispanic or Latino,No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Kendall,Plano
+618,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Lisle
+619,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Lisle
+620,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Will,Joliet
+621,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,McHenry,Woodstock
+622,Yes,NULL,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2013,NULL,NULL,NULL,Yes,Waitlist,2016,Will,Joliet
+623,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Waitlist,2016,Peoria,Peoria
+624,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Park Ridge
+625,Yes,Accept,Yes,NULL,Yes,Hispanic or Latino,No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Orland Park
+626,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Kane,Aurora
+627,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Clarendon Hls
+628,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,S Barrington
+629,Yes,Accept,Yes,NULL,No,Black or African American,No,No,Black or African American,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Chicago
+630,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Lisle
+631,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Lake,Lincolnshire
+632,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Naperville
+633,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Peoria,Dunlap
+634,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Peoria,Dunlap
+635,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Peoria,Dunlap
+636,Yes,Accept,Yes,NULL,No,Asian,No,No,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Naperville
+637,Yes,Accept,Yes,NULL,Yes,American Indian or Alaska Native,No,Yes,American Indian or Alaska Native,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Naperville
+638,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Kane,St Charles
+639,Yes,Accept,Yes,NULL,Yes,Black or African American,No,Yes,Black or African American,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Wheaton
+640,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Will,Beecher
+641,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Lake,Lake Villa
+642,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Champaign,Savoy
+643,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Brookfield
+644,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Will,Lockport
+645,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Oak Brook
+646,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,McLean,Bloomington
+647,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Sangamon,Glenarm
+648,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Naperville
+649,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,McHenry,Lk In The Hls
+650,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Hoffman Est
+651,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Waitlist,2016,Kane,St Charles
+652,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Lee,Dixon
+653,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Waitlist,2016,Cook,S Barrington
+654,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Waitlist,2016,DuPage,Naperville
+655,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Aurora
+656,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Boone,Poplar Grove
+657,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Peoria,Dunlap
+658,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Park Ridge
+659,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Kendall,Yorkville
+660,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Waitlist,2016,Kendall,Yorkville
+661,Yes,Accept,Yes,NULL,No,Hispanic or Latino,No,No,Hispanic or Latino,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Lake,Round Lake
+662,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Kane,Geneva
+663,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Peoria,Peoria
+664,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Waitlist,2016,Kane,Elgin
+665,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Kane,Aurora
+666,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Naperville
+667,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Boone,Belvidere
+668,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Champaign,Savoy
+669,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Elk Grove Vlg
+670,Yes,Rescinded,Yes,NULL,No,Two or More Races,No,No,Two or More Races,No,Yes,Yes,Yes,2013,Rescinded,NULL,NULL,Yes,Offer,2016,DuPage,Aurora
+671,Yes,Accept,Yes,NULL,Yes,White,No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,West Chicago
+672,Yes,Accept,Yes,NULL,No,Hispanic or Latino,No,No,Hispanic or Latino,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Cicero
+673,Yes,Accept,Yes,NULL,Yes,White,No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Burr Ridge
+674,Yes,Accept,Yes,NULL,Yes,White,No,Yes,Hispanic or Latino,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Barrington
+675,Yes,Accept,Yes,NULL,Yes,Two or More Races,No,Yes,Two or More Races,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Madison,Collinsville
+676,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,McHenry,Lk In The Hls
+677,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,St. Clair,O Fallon
+678,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Kane,North Aurora
+679,Yes,Accept,Yes,NULL,No,Black or African American,No,No,Black or African American,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Hazel Crest
+680,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Naperville
+681,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Waitlist,2016,Kendall,Plano
+682,Yes,Accept,Yes,NULL,Yes,White,No,Yes,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Wheaton
+683,Yes,Accept,Yes,NULL,No,Two or More Races,No,No,Two or More Races,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Cook,Chicago Hts
+684,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Monroe,Waterloo
+685,Yes,Accept,Yes,NULL,Yes,Asian,No,Yes,Asian,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Aurora
+686,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,DuPage,Lemont
+687,Yes,Accept,Yes,NULL,No,Black or African American,No,No,Black or African American,No,Yes,Yes,Yes,2013,Accept,NULL,NULL,Yes,Offer,2016,Livingston,Dwight
+688,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Brookfield
+689,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Aurora
+690,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Burr Ridge
+691,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Naperville
+692,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Lake,Buffalo Grove
+693,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,Cook,Hickory Hills
+694,Yes,Accept,Yes,2,No,Black or African American,Yes,No,Black or African American,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Kendall,Montgomery
+695,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Will,Crete
+696,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Darien
+697,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Dekalb,Sandwich
+698,Yes,Accept,Yes,1,No,Hispanic or Latino,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Oak Park
+699,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Western Sprgs
+700,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,Cook,Prospect Hts
+701,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Naperville
+702,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,Will,Plainfield
+703,Yes,Accept,Yes,4,No,Hispanic or Latino,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Kane,Carpentersvle
+704,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Lake,Highland Park
+705,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Kane,St Charles
+706,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Morgan,Jacksonville
+707,Yes,Accept,Yes,NULL,No,Asian,No,No,Asian,No,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,Lake,Beach Park
+708,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Kane,South Elgin
+709,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,River Forest
+710,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Marshall,Wenona
+711,Yes,Accept,Yes,NULL,No,Black or African American,Yes,No,Black or African American,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Chicago
+712,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,DuPage,Aurora
+713,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Sangamon,Chatham
+714,Yes,Accept,Yes,NULL,No,Hispanic or Latino,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Aurora
+715,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Aurora
+716,Yes,Accept,Yes,2,No,Hispanic or Latino,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Kendall,Yorkville
+717,Yes,Accept,Yes,1,No,Asian,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Cicero
+718,Yes,Accept,Yes,NULL,No,Asian,No,No,Asian,No,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Tazewell,Washington
+719,Yes,Accept,Yes,2,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Lake,Vernon Hills
+720,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,Lake,Grayslake
+721,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Decline,Accept,NULL,Yes,Offer,2017,DuPage,Bartlett
+722,Yes,Accept,Yes,3,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Chicago
+723,Yes,Accept,Yes,NULL,No,Black or African American,Yes,No,Black or African American,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Chicago
+724,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,McHenry,Cary
+725,Yes,Accept,Yes,NULL,No,White,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Wheaton
+726,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Will,Bolingbrook
+727,Yes,Accept,Yes,4,No,White,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,McDonough,Macomb
+728,Yes,Accept,Yes,NULL,No,Asian,No,No,Asian,No,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Peoria,Peoria
+729,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Kendall,Yorkville
+730,Yes,Accept,Yes,4,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,Kane,Aurora
+731,Yes,Accept,Yes,3,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Scott,Winchester
+732,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Chicago
+733,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Arlington Hts
+734,Yes,Accept,Yes,NULL,No,Two or More Races,No,No,Two or More Races,No,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Glenview
+735,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Jersey,Jerseyville
+736,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,McLean,Bloomington
+737,Yes,Accept,Yes,3,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Kane,Sugar Grove
+738,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Lake,Lindenhurst
+739,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,McHenry,Fox River Grv
+740,Yes,Accept,Yes,NULL,No,Black or African American,Yes,No,Black or African American,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Matteson
+741,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Bureau,Spring Valley
+742,Yes,Accept,Yes,NULL,No,Hispanic or Latino,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Oak Forest
+743,Yes,Accept,Yes,2,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Coles,Mattoon
+744,Yes,Accept,Yes,6,No,Asian,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Aurora
+745,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Naperville
+746,Yes,Accept,Yes,NULL,No,Two or More Races,No,No,Two or More Races,No,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Kane,Geneva
+747,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Northbrook
+748,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Aurora
+749,Yes,Accept,Yes,4,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Kane,West Dundee
+750,Yes,Accept,Yes,1,No,Hispanic or Latino,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Berwyn
+751,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Arlington Hts
+752,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,LaSalle,Ottawa
+753,Yes,Accept,Yes,5,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Chicago
+754,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Kane,South Elgin
+755,Yes,Accept,Yes,NULL,No,Hispanic or Latino,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Berwyn
+756,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Lake,Buffalo Grove
+757,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Peoria,Peoria
+758,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Lemont
+759,Yes,Accept,Yes,1,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Kane,North Aurora
+760,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,DuPage,Naperville
+761,Yes,Accept,Yes,5,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,Kendall,Yorkville
+762,Yes,Decline,No,NULL,No,,NO,No,Black or African American,NO,No,Yes,NO,2014,Decline,NULL,NULL,Yes,Offer,NULL,Cook,Flossmoor
+763,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Naperville
+764,Yes,Accept,Yes,4,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Kendall,Yorkville
+765,Yes,Accept,Yes,1,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Sangamon,Springfield
+766,Yes,Accept,Yes,5,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Sangamon,Springfield
+767,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,Peoria,Peoria
+768,Yes,Accept,Yes,2,No,Two or More Races,Yes,No,Two or More Races,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Bensenville
+769,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Lake,Waukegan
+770,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Kane,Geneva
+771,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Champaign,Urbana
+772,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Aurora
+773,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Lake,Buffalo Grove
+774,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,St. Clair,Smithton
+775,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Wayne
+776,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Peoria,Dunlap
+777,Yes,Decline,No,NULL,No,,No,No,Black or African American,No,No,Yes,No,2014,Decline,NULL,NULL,Yes,Offer,NULL,Cook,Olympia Flds
+778,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Woodridge
+779,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Dekalb,Kingston
+780,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Will,Lockport
+781,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,McHenry,Marengo
+782,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,Cook,Park Ridge
+783,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,LaSalle,Ottawa
+784,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Sangamon,Springfield
+785,Yes,Accept,Yes,5,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Kane,Aurora
+786,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,Kane,St Charles
+787,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Burr Ridge
+788,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Aurora
+789,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Skokie
+790,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Palos Park
+791,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,Kane,Aurora
+792,Yes,Accept,Yes,1,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,Will,Bolingbrook
+793,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Addison
+794,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Lake,Vernon Hills
+795,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Peoria,Peoria
+796,Yes,Accept,Yes,NULL,No,Two or More Races,Yes,No,Two or More Races,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Bureau,Princeton
+797,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Peoria,Peoria
+798,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Schaumburg
+799,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Boone,Caledonia
+800,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Lisle
+801,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Dekalb,Dekalb
+802,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Aurora
+803,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Kane,Geneva
+804,Yes,Accept,Yes,6,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Stephenson,Freeport
+805,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,West Chicago
+806,Yes,Accept,Yes,NULL,No,White,No,No,Hispanic or Latino,No,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Lake,Round Lake
+807,Yes,Accept,Yes,4,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Montgomery,Litchfield
+808,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,Will,Bolingbrook
+809,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Aurora
+810,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Thornton
+811,Yes,Accept,Yes,5,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Midlothian
+812,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Carol Stream
+813,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Naperville
+814,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Berwyn
+815,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Sangamon,Springfield
+816,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Naperville
+817,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Hoffman Est
+818,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Naperville
+819,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Kane,Batavia
+820,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Kane,St Charles
+821,Yes,Accept,Yes,5,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,Will,Lockport
+822,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Iroquois,Gilman
+823,Yes,Accept,Yes,1,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Champaign,Champaign
+824,Yes,Accept,Yes,NULL,No,Two or More Races,Yes,No,Two or More Races,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Ogle,Oregon
+825,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Elk Grove Vlg
+826,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Glen Ellyn
+827,Yes,Decline,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,Decline,NULL,Yes,Waitlist,2017,DuPage,Lisle
+828,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Kane,Gilberts
+829,Yes,Accept,Yes,NULL,No,Hispanic or Latino,No,No,Hispanic or Latino,No,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Kane,Aurora
+830,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,Lake,Hawthorn Wds
+831,Yes,Accept,Yes,1,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Orland Park
+832,Yes,Accept,Yes,5,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Wheaton
+833,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,McHenry,Algonquin
+834,Yes,Accept,Yes,1,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Naperville
+835,Yes,Accept,Yes,NULL,No,Two or More Races,No,No,Two or More Races,No,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Sangamon,Springfield
+836,Yes,Accept,Yes,NULL,No,Black or African American,Yes,No,Black or African American,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Aurora
+837,Yes,Accept,Yes,NULL,No,Black or African American,Yes,No,Black or African American,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Kane,Aurora
+838,Yes,Accept,Yes,5,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Oak Lawn
+839,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Lake,Vernon Hills
+840,Yes,Accept,Yes,1,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,LaSalle,Ottawa
+841,Yes,Accept,Yes,2,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Schaumburg
+842,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Peoria,Peoria
+843,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,Cook,Schaumburg
+844,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Naperville
+845,Yes,Accept,Yes,6,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Peoria,Peoria
+846,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Northbrook
+847,Yes,Accept,Yes,2,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Will,Plainfield
+848,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,Cook,Streamwood
+849,Yes,NULL,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2015,NULL,NULL,NULL,Yes,Waitlist,2017,Will,Naperville
+850,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Orland Park
+851,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Champaign,Champaign
+852,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Homewood
+853,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Winnebago,Rockford
+854,Yes,Accept,Yes,5,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,LaSalle,Lostant
+855,Yes,Decline,No,NULL,No,,NO,No,Not Reported,NO,No,Yes,NO,2014,Decline,NULL,NULL,Yes,Offer,NULL,DuPage,Hinsdale
+856,Yes,Accept,Yes,2,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Harwood Hts
+857,Yes,Accept,Yes,4,No,Black or African American,Yes,No,Black or African American,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Will,Frankfort
+858,Yes,Accept,Yes,NULL,No,Hispanic or Latino,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Kane,North Aurora
+859,Yes,Accept,Yes,1,No,Two or More Races,Yes,No,Two or More Races,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Will,Plainfield
+860,Yes,Accept,Yes,NULL,No,Asian,No,No,Asian,No,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Chicago
+861,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Skokie
+862,Yes,Accept,Yes,6,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Will,Bolingbrook
+863,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Coles,Mattoon
+864,Yes,Accept,Yes,NULL,No,Hispanic or Latino,No,No,Hispanic or Latino,No,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Aurora
+865,Yes,Accept,Yes,NULL,No,Two or More Races,Yes,No,Two or More Races,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Peoria,Peoria
+866,Yes,Accept,Yes,NULL,No,Black or African American,Yes,No,Black or African American,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Will,Bolingbrook
+867,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Boone,Belvidere
+868,Yes,Accept,Yes,5,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Homewood
+869,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,Cook,Palatine
+870,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Kane,Geneva
+871,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Whiteside,Sterling
+872,Yes,Accept,Yes,2,No,Two or More Races,Yes,No,Two or More Races,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Lake,Fox Lake
+873,Yes,Accept,Yes,NULL,No,Black or African American,No,No,Black or African American,No,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,St. Clair,Fairview Hts
+874,Yes,Accept,Yes,1,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,Cook,Orland Park
+875,Yes,Accept,Yes,5,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Champaign,Savoy
+876,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Kane,Saint Charles
+877,Yes,Accept,Yes,NULL,No,Black or African American,Yes,No,Black or African American,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Bellwood
+878,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,Kane,Geneva
+879,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,McHenry,Lk In The Hls
+880,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Champaign,Champaign
+881,Yes,Accept,Yes,4,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,Lake,Zion
+882,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Orland Park
+883,Yes,Accept,Yes,NULL,No,Black or African American,Yes,No,Black or African American,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Cntry Clb Hls
+884,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Champaign,Savoy
+885,Yes,Decline,No,NULL,No,,NO,No,Asian,NO,No,Yes,NO,2014,Decline,NULL,NULL,Yes,Offer,NULL,Sangamon,Springfield
+886,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Tower Lakes
+887,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Glenview
+888,Yes,Accept,Yes,1,No,Two or More Races,Yes,No,Two or More Races,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,McLean,Bloomington
+889,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Willowbrook
+890,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Burr Ridge
+891,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,McHenry,Crystal Lake
+892,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,DuPage,Aurora
+893,Yes,Accept,Yes,2,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Lake,Mundelein
+894,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,Will,Plainfield
+895,Yes,Decline,No,NULL,No,,NO,No,Asian,NO,No,Yes,NO,2014,Decline,NULL,NULL,Yes,Offer,NULL,Will,Naperville
+896,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Kane,Aurora
+897,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Westmont
+898,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Will,Bolingbrook
+899,Yes,Accept,Yes,4,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Melrose Park
+900,Yes,Accept,Yes,4,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Schaumburg
+901,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Peoria,Peoria
+902,Yes,Accept,Yes,1,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,Kendall,Yorkville
+903,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Northbrook
+904,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Will,Plainfield
+905,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Will,Plainfield
+906,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Palos Park
+907,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Grundy,Minooka
+908,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Macon,Forsyth
+909,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,Kane,St Charles
+910,Yes,Accept,Yes,NULL,No,White,No,No,White,No,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Ogle,Byron
+911,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,McHenry,Mchenry
+912,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,McHenry,Lk In The Hls
+913,Yes,Accept,Yes,NULL,No,Black or African American,No,No,Black or African American,No,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Will,Bolingbrook
+914,Yes,Accept,Yes,NULL,No,Asian,No,No,Asian,No,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Will,Naperville
+915,Yes,Accept,Yes,4,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Will,Naperville
+916,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Bloomingdale
+917,Yes,Accept,Yes,1,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Jackson,Carbondale
+918,Yes,Accept,Yes,1,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,Cook,Streamwood
+919,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,McDonough,Macomb
+920,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Iroquois,Watseka
+921,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,McLean,Bloomington
+922,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Morgan,Jacksonville
+923,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Lisle
+924,Yes,Accept,Yes,4,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,DuPage,Bartlett
+925,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Jefferson,Mount Vernon
+926,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Cook,Oak Park
+927,Yes,Accept,Yes,3,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,Kane,Aurora
+928,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Waitlist,2017,McLean,Normal
+929,Yes,Accept,Yes,NULL,No,Two or More Races,Yes,No,Two or More Races,Yes,Yes,Yes,Yes,2014,Accept,NULL,NULL,Yes,Offer,2017,McLean,Bloomington
+930,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2015,Accept,NULL,NULL,Yes,Offer,2018,Kane,Elgin
+931,Yes,Accept,Yes,1,No,Black or African American,Yes,No,Black or African American,Yes,Yes,Yes,Yes,2015,Accept,NULL,NULL,Yes,Offer,2018,Cook,Dolton
+932,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2015,Accept,NULL,NULL,Yes,Offer,2018,Sangamon,Springfield
+933,Yes,Accept,No,3,No,White,Yes,No,White,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Christian,Moweaqua
+934,Yes,Accept,Yes,4,No,Black or African American,Yes,No,Black or African American,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Oak Lawn
+935,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Lake,Gurnee
+936,Yes,Accept,Yes,NULL,No,Black or African American,Yes,No,Black or African American,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,McHenry,Crystal Lake
+937,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,Naperville
+938,Yes,Accept,Yes,4,No,Hispanic or Latino,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Kane,Carpentersvle
+939,Yes,Accept,No,NULL,No,White,Yes,No,White,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Oak Park
+940,Yes,Accept,Yes,5,No,Black or African American,Yes,No,Black or African American,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Westchester
+941,Yes,Accept,No,NULL,No,Asian,Yes,No,Asian,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,LaSalle,Ottawa
+942,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Sangamon,Springfield
+943,Yes,Accept,Yes,NULL,No,Black or African American,Yes,No,Black or African American,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Will,Plainfield
+944,Yes,Accept,Yes,2,No,Black or African American,Yes,No,Black or African American,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,St. Clair,E Saint Louis
+945,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Kendall,Newark
+946,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,LaSalle,Sheridan
+947,Yes,Accept,Yes,4,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Sangamon,Springfield
+948,Yes,Accept,Yes,NULL,No,White,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,Winfield
+949,Yes,Accept,Yes,NULL,No,Black or African American,Yes,No,Black or African American,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Kendall,Oswego
+950,Yes,Accept,Yes,NULL,No,Hispanic or Latino,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,Bartlett
+951,Yes,Accept,Yes,5,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Kendall,Newark
+952,Yes,Accept,Yes,NULL,No,Two or More Races,Yes,No,Two or More Races,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,Lisle
+953,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Lake,Libertyville
+954,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,McLean,Bloomington
+955,Yes,Accept,Yes,3,No,Two or More Races,Yes,No,Two or More Races,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Chicago
+956,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,Naperville
+957,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Peoria,Dunlap
+958,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Jackson,Carbondale
+959,Yes,Accept,Yes,4,No,Two or More Races,Yes,No,Two or More Races,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,Aurora
+960,Yes,Accept,No,2,No,Black or African American,Yes,No,Black or African American,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,McLean,Bloomington
+961,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Kane,Elgin
+962,Yes,Accept,No,3,No,Asian,Yes,No,Asian,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Tinley Park
+963,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Kankakee,Bourbonnais
+964,Yes,Accept,Yes,6,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Winnebago,Rockford
+965,Yes,Accept,Yes,4,No,Hispanic or Latino,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Schaumburg
+966,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Jackson,Makanda
+967,Yes,Accept,Yes,3,No,Hispanic or Latino,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Will,Romeoville
+968,Yes,Accept,Yes,1,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,Wheaton
+969,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Kankakee,Bourbonnais
+970,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Riverside
+971,Yes,Accept,Yes,1,No,Black or African American,Yes,No,Black or African American,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Cntry Clb Hls
+972,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Arlington Hts
+973,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,McHenry,Prairie Grove
+974,Yes,Accept,Yes,2,No,Black or African American,Yes,No,Black or African American,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Chicago
+975,Yes,Accept,No,1,No,"Asian, White",Yes,No,Two or More Races,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,Lombard
+976,Yes,Accept,Yes,1,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Kane,Geneva
+977,Yes,Accept,Yes,4,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Brookfield
+978,Yes,Accept,Yes,1,No,Black or African American,Yes,No,Black or African American,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Sangamon,Springfield
+979,Yes,Accept,No,2,No,Asian,Yes,No,Asian,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Chicago
+980,Yes,Accept,Yes,5,No,Two or More Races,Yes,No,Two or More Races,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Kane,Virgil
+981,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Kane,Batavia
+982,Yes,Accept,No,5,No,White,Yes,No,White,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Chicago
+983,Yes,Accept,Yes,1,No,White,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Melrose Park
+984,Yes,Accept,Yes,1,No,White,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Kane,Elgin
+985,Yes,Accept,Yes,1,No,Two or More Races,Yes,No,Two or More Races,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Jersey,Jerseyville
+986,Yes,Accept,Yes,5,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Des Plaines
+987,Yes,Accept,No,NULL,No,"Black or African American, White",Yes,No,Two or More Races,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Dekalb,Waterman
+988,Yes,Accept,Yes,4,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Lake,Libertyville
+989,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Champaign,Champaign
+990,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,Aurora
+991,Yes,Accept,No,NULL,No,Asian,Yes,No,Asian,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Champaign,Champaign
+992,Yes,Accept,No,1,No,Asian,Yes,No,Asian,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Kane,North Aurora
+993,Yes,Accept,No,3,No,Hispanic or Latino,Yes,No,Hispanic or Latino,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,Aurora
+994,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Glencoe
+995,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,McLean,Bloomington
+996,Yes,Accept,Yes,2,No,Black or African American,Yes,No,Black or African American,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Broadview
+997,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Dekalb,Kirkland
+998,Yes,Accept,Yes,6,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Johnson,Belknap
+999,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Kane,North Aurora
+1000,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Macoupin,Benld
+1001,Yes,Accept,Yes,5,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Kane,Carpentersvle
+1002,Yes,Accept,Yes,5,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Madison,East Alton
+1003,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,Naperville
+1004,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Kane,Geneva
+1005,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Tazewell,Washington
+1006,Yes,Accept,No,4,No,Asian,Yes,No,Asian,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Schaumburg
+1007,Yes,Accept,Yes,NULL,No,Black or African American,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Riverside
+1008,Yes,Accept,Yes,NULL,No,Hispanic or Latino,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Evergreen Pk
+1009,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,Aurora
+1010,Yes,Accept,Yes,3,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Stephenson,Freeport
+1011,Yes,Accept,Yes,1,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,LaSalle,Sheridan
+1012,Yes,Accept,Yes,5,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Williamson,Herrin
+1013,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Boone,Caledonia
+1014,Yes,Accept,No,NULL,No,White,Yes,No,White,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Will,Plainfield
+1015,Yes,Accept,Yes,6,No,White,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Des Plaines
+1016,Yes,Accept,Yes,NULL,No,White,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Lake,Hawthorn Wds
+1017,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Arlington Hts
+1018,Yes,Accept,Yes,5,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Chicago
+1019,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Kane,Geneva
+1020,Yes,Accept,No,4,No,Black or African American,Yes,No,Black or African American,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Peoria,Peoria
+1021,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Palatine
+1022,Yes,Accept,Yes,1,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Morgan,Jacksonville
+1023,Yes,Accept,No,NULL,No,Asian,Yes,No,Asian,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Dekalb,Dekalb
+1024,Yes,Accept,No,NULL,No,Asian,Yes,No,Asian,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Lake,Mundelein
+1025,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Madison,Saint Jacob
+1026,Yes,Accept,Yes,4,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Sangamon,Chatham
+1027,Yes,Accept,Yes,1,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,Naperville
+1028,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Palatine
+1029,Yes,Accept,Yes,1,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Williamson,Carterville
+1030,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Peoria,Peoria
+1031,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Peoria,Peoria
+1032,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Peoria,Dunlap
+1033,Yes,Accept,Yes,5,No,White,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Kane,North Aurora
+1034,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,Naperville
+1035,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Lake,Libertyville
+1036,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Will,Naperville
+1037,Yes,Accept,No,2,No,Asian,Yes,No,Asian,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,McDonough,Macomb
+1038,Yes,Accept,Yes,NULL,No,Hispanic or Latino,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Kane,Aurora
+1039,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Lake,Libertyville
+1040,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,Lisle
+1041,Yes,Accept,Yes,NULL,No,Two or More Races,Yes,No,Two or More Races,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,Woodridge
+1042,Yes,Accept,No,NULL,No,White,Yes,No,White,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Dekalb,Dekalb
+1043,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Knox,Galesburg
+1044,Yes,Accept,No,2,No,White,Yes,No,White,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Will,Joliet
+1045,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Dekalb,Sycamore
+1046,Yes,Accept,No,NULL,No,"Asian, Black or African American",Yes,No,Two or More Races,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Chicago
+1047,Yes,Accept,Yes,NULL,No,Black or African American,Yes,No,Black or African American,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Bellwood
+1048,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Kane,Geneva
+1049,Yes,Accept,Yes,NULL,No,Two or More Races,Yes,No,Two or More Races,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,Elmhurst
+1050,Yes,Accept,Yes,3,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Lee,Dixon
+1051,Yes,Accept,Yes,NULL,No,Black or African American,Yes,No,Black or African American,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Chicago
+1052,Yes,Accept,Yes,2,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Burbank
+1053,Yes,Accept,Yes,3,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Peoria,Peoria
+1054,Yes,Accept,Yes,1,No,Two or More Races,Yes,No,Two or More Races,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Peoria,Dunlap
+1055,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Peoria,Dunlap
+1056,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Kendall,Oswego
+1057,Yes,Accept,Yes,3,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,West Chicago
+1058,Yes,Accept,Yes,4,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,West Chicago
+1059,Yes,Accept,No,5,No,White,Yes,No,White,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Burbank
+1060,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Mt Prospect
+1061,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Boone,Belvidere
+1062,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,Naperville
+1063,Yes,Accept,No,2,No,Asian,Yes,No,Asian,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Knox,Galesburg
+1064,Yes,Accept,No,NULL,No,"Asian, White",Yes,No,Two or More Races,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Peoria,Peoria
+1065,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Rock Island,Moline
+1066,Yes,Accept,Yes,1,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Chicago
+1067,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,McLean,Bloomington
+1068,Yes,Accept,Yes,1,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Dekalb,Dekalb
+1069,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Dekalb,Sycamore
+1070,Yes,Accept,Yes,1,No,Black or African American,Yes,No,Black or African American,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Macon,Decatur
+1071,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,Naperville
+1072,Yes,Accept,Yes,NULL,No,Hispanic or Latino,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Lake,Lindenhurst
+1073,Yes,Accept,Yes,3,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Evergreen Pk
+1074,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Rock Island,Moline
+1075,Yes,Accept,No,NULL,No,"Hispanic or Latino, White",Yes,No,Hispanic or Latino,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,Aurora
+1076,Yes,Accept,No,2,No,"Hispanic or Latino, White",Yes,No,Hispanic or Latino,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,Westmont
+1077,Yes,Accept,No,NULL,No,White,Yes,No,White,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Boone,Belvidere
+1078,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Peoria,Peoria
+1079,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Adams,Quincy
+1080,Yes,Accept,No,NULL,No,White,Yes,No,White,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,Glen Ellyn
+1081,Yes,Accept,Yes,2,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,Naperville
+1082,Yes,Accept,No,NULL,No,Hispanic or Latino,Yes,No,Hispanic or Latino,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Peoria,Peoria
+1083,Yes,Accept,Yes,1,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Kane,Batavia
+1084,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,S Barrington
+1085,Yes,Accept,Yes,1,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Lake,Lake Forest
+1086,Yes,Accept,Yes,4,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Schaumburg
+1087,Yes,Accept,Yes,1,No,White,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,Villa Park
+1088,Yes,Accept,No,3,No,Hispanic or Latino,Yes,No,Hispanic or Latino,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Chicago
+1089,Yes,Accept,Yes,NULL,No,White,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Will,Joliet
+1090,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,Naperville
+1091,Yes,Accept,Yes,3,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Sangamon,Springfield
+1092,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,Roselle
+1093,Yes,Accept,Yes,2,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,McHenry,Algonquin
+1094,Yes,Accept,Yes,1,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Sangamon,Springfield
+1095,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Elmwood Park
+1096,Yes,Accept,No,NULL,No,White,Yes,No,White,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Will,Plainfield
+1097,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Lake,Antioch
+1098,Yes,Accept,Yes,3,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,LaSalle,Sheridan
+1099,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,Aurora
+1100,Yes,Accept,Yes,2,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Will,Plainfield
+1101,Yes,Accept,Yes,4,No,White,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Will,Plainfield
+1102,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Kankakee,Kankakee
+1103,Yes,Accept,No,NULL,No,White,Yes,No,White,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Will,Bolingbrook
+1104,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Effingham,Effingham
+1105,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Kane,Geneva
+1106,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,McLean,Bloomington
+1107,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,McHenry,Algonquin
+1108,Yes,Accept,Yes,NULL,No,Black or African American,Yes,No,Black or African American,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,Aurora
+1109,Yes,Accept,No,4,No,Black or African American,Yes,No,Black or African American,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Will,Plainfield
+1110,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Will,Plainfield
+1111,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Lake,Vernon Hills
+1112,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Macon,Forsyth
+1113,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Peoria,Peoria
+1114,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Mt Prospect
+1115,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Marshall,Wenona
+1116,Yes,Accept,No,2,No,Asian,Yes,No,Asian,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Peoria,Peoria
+1117,Yes,Accept,Yes,NULL,No,Two or More Races,Yes,No,Two or More Races,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Kane,Aurora
+1118,Yes,Accept,No,NULL,No,Asian,Yes,No,Asian,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Lake,Buffalo Grove
+1119,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Macon,Forsyth
+1120,Yes,Accept,Yes,1,No,White,Yes,No,Hispanic or Latino,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Will,Joliet
+1121,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,McHenry,Johnsburg
+1122,Yes,Accept,Yes,3,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Christian,Taylorville
+1123,Yes,Accept,No,5,No,White,Yes,No,White,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Rock Island,Coal Valley
+1124,Yes,Accept,Yes,2,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,LaSalle,Ottawa
+1125,Yes,Accept,Yes,6,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Kane,Batavia
+1126,Yes,Accept,Yes,1,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Chicago
+1127,Yes,Accept,No,5,No,White,Yes,No,White,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Will,Plainfield
+1128,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Montgomery,Hillsboro
+1129,Yes,Accept,Yes,6,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Lake,Lincolnshire
+1130,Yes,Accept,Yes,1,No,Black or African American,Yes,No,Black or African American,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Kane,Aurora
+1131,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Lake,Lincolnshire
+1132,Yes,Accept,Yes,2,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,DuPage,Downers Grove
+1133,Yes,Accept,No,1,No,Asian,Yes,No,Asian,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Cook,Schaumburg
+1134,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Offer,2019,Lake,Vernon Hills
+1135,Yes,Accept,No,NULL,No,Asian,Yes,No,Asian,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Waitlist,2019,McHenry,Algonquin
+1136,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Waitlist,2019,Kane,Maple Park
+1137,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Waitlist,2019,Lake,Antioch
+1138,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Waitlist,2019,DuPage,Wheaton
+1139,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Waitlist,2019,Cook,Burr Ridge
+1140,Yes,Accept,Yes,4,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Waitlist,2019,DuPage,Bartlett
+1141,Yes,Accept,Yes,2,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Waitlist,2019,Kane,Batavia
+1142,Yes,Accept,No,NULL,No,Asian,Yes,No,Asian,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Waitlist,2019,DuPage,Lemont
+1143,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Waitlist,2019,Kendall,Oswego
+1144,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Waitlist,2019,Dekalb,Kingston
+1145,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Waitlist,2019,DuPage,Naperville
+1146,Yes,Accept,No,1,No,Asian,Yes,No,Asian,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Waitlist,2019,Cook,Prospect Hts
+1147,Yes,Accept,No,NULL,No,"Asian, White",Yes,No,Two or More Races,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Waitlist,2019,Lake,Mettawa
+1148,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Waitlist,2019,DuPage,Naperville
+1149,Yes,Accept,Yes,2,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Waitlist,2019,Will,Lockport
+1150,Yes,Accept,No,NULL,No,White,Yes,No,White,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Waitlist,2019,Lake,Grayslake
+1151,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Waitlist,2019,Kane,Geneva
+1152,Yes,Accept,No,NULL,No,Asian,Yes,No,Asian,Yes,No,Yes,Yes,2016,Accept,NULL,NULL,Yes,Waitlist,2019,DuPage,Addison
+1153,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Waitlist,2019,Kane,Aurora
+1154,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Waitlist,2019,Lake,Buffalo Grove
+1155,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Waitlist,2019,DuPage,Aurora
+1156,Yes,Accept,Yes,NULL,No,Two or More Races,Yes,No,Two or More Races,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Waitlist,2019,Dekalb,DeKalb
+1157,Yes,Accept,Yes,NULL,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Waitlist,2019,McLean,Normal
+1158,Yes,Accept,Yes,3,No,Asian,Yes,No,Asian,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Waitlist,2019,Cook,Hoffman Est
+1159,Yes,Accept,Yes,5,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Waitlist,2019,Kendall,Yorkville
+1160,Yes,Accept,Yes,NULL,No,White,Yes,No,White,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Waitlist,2019,Grundy,Morris
+1161,Yes,Accept,Yes,NULL,No,Two or More Races,Yes,No,Two or More Races,Yes,Yes,Yes,Yes,2016,Accept,NULL,NULL,Yes,Waitlist,2019,Kane,Batavia

@@ -4,7 +4,7 @@ This repo contains admissions data and any subsequent analysis from the Illinois
 ## foia-correspondence
 This includes the important correspondence I had with IMSA's FOIA Officer, including the initial FOIA request.
 
-## demographic-only-no-reject
+## demographic-only-no-rejects-data
 
 This contains the initial data provided to me by IMSA (and any subsequent analysis). This dataset does not include rejected applicants nor does it include GPA or SAT scores.
 

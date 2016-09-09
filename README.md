@@ -12,3 +12,6 @@ This contains the initial data provided to me by IMSA (and any subsequent analys
 This is simply the spreadsheet IMSA provided to me (except it was converted from `.XLSX` to `.CSV`).
 ### cleaned-data
 Here is where any alterations to the dataset to make it machine readable or generally more useful will happen
+
+## License
+Since this data was retreived via a Freedom of Information Act Request, it seems only right to open source the data to eliminate the need for another FOIA. To be clear, you may alter, analyze and reproduce this data at your leisure. Additionally, all software in this project (as of this writing, none) is licensed under the MIT License.

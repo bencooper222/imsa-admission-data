@@ -13,5 +13,8 @@ This folder includes the three separate datasets that IMSA sent me, all in `CSV`
 ## Credits
 A lot of people have contributed to this project - they deserve to and have been recognized here.
 
+## code 
+Any data analysis code should be put here. Name your folder with a 2-3 word summary of the purpose and then the language. For example, if you wrote Java code to find Waldo, name your folder "find-waldo-java". In addition, add a `README.MD` to the folder explaining the basic structure of your code.
+
 ## License
 Since this data was retreived via a Freedom of Information Act Request, it seems only right to open source the data to eliminate the need for another FOIA. To be clear, you may alter, analyze and reproduce this data at your leisure. Additionally, all software in this project (as of this writing, none) is licensed under the MIT License.
